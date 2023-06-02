@@ -2388,7 +2388,7 @@ const SectionTres = ()=>{
                                     "\xbfNecesitas una oficina de cambio en",
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
                                         className: (_sectionTres_module_css__WEBPACK_IMPORTED_MODULE_2___default().linea),
-                                        children: " palma?"
+                                        children: " Palma?"
                                     })
                                 ]
                             }),
